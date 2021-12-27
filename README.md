@@ -33,5 +33,4 @@ Un server Nginx executé par Docker
 
     Ouvrir localhost:8080
     
-    ![dater-nginx](https://user-images.githubusercontent.com/96181307/147486830-36ba610b-7306-4769-a46c-14fdbe21f92e.png)
 
